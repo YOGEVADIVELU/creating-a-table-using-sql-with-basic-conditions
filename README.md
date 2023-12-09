@@ -1,0 +1,1 @@
+# creating-a-table-using-sql-with-basic-conditions
